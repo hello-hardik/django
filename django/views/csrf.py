@@ -8,7 +8,7 @@ from django.utils.version import get_docs_version
 
 CSRF_FAILURE_TEMPLATE_NAME = "403_csrf.html"
 
-
+#hello i am hardik
 def builtin_template_path(name):
     """
     Return a path to a builtin template.
